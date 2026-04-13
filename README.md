@@ -20,4 +20,4 @@ streamlit run app.py
 Python · Streamlit · Pandas · Matplotlib · Seaborn · NumPy
 
 ## Built For
-Ethara AI — Infographics & Visual Data Design Intern Role
+ Infographics & Visual Data Design 
